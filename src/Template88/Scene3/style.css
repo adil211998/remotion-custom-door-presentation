@@ -1,0 +1,9 @@
+.image-wrapper img {
+    position: relative;
+}
+.image-wrapper img::after {
+    content: '';
+    position: absolute;
+    inset: -1rem;
+    background-color: aquamarine;
+}

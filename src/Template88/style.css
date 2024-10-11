@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'AltoneTrial';
+    src: url('/public/font/altone/AltoneTrial-Bold.ttf') format('truetype');
+}
+
+body,
+.altone-bold {
+    font-family: 'AltoneTrial', sans-serif;
+}
